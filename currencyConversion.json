@@ -1,0 +1,449 @@
+{
+    "currencies": [
+
+                                      {   "name" : "---------------A---------------"   },
+
+
+      
+    {   "name" : "Afghan",                       "code" : "AFN",        "country" : "Afghanistan",                   "conversion" : 86.697099      },
+
+    {   "name" : "Algerian Dinar",               "code" : "DZD",        "country" : "Algeria",                       "conversion" : 132.865686     },
+
+    {   "name" : "Argentina Peso",               "code" : "ARS",        "country" : "Argentina",                     "conversion" : 66.3914878     },
+    
+    {   "name" : "Armenian Dram",                "code" : "AMD",        "country" : "Armenia",                       "conversion" : 531.803863     },
+   
+    {   "name" : "Aruban Guilder/Florin",        "code" : "AWG",        "country" : "Aruba",                         "conversion" : 2.000155       },
+
+    {   "name" : "Australian Dollar",            "code" : "AUD",        "country" : "Australia",                     "conversion" : 1.619015       },
+    
+    {   "name" : "Azerbaijanian Manat",          "code" : "AZN",        "country" : "Azerbaijan",                    "conversion" : 1.872495       },
+
+
+       
+                                      {   "name" : "---------------B---------------"   },
+
+
+    
+    {   "name" : "Bahamian Dollar",              "code" : "BSD",        "country" : "Bahamas",                       "conversion" : 1.110842       },
+
+    {   "name" : "Bahraini Dinar",               "code" : "BHD",        "country" : "Bahrain",                       "conversion" : 0.4188939      },
+
+    {   "name" : "Baht",                         "code" : "THB",        "country" : "Thailand",                      "conversion" : 33.657926      },
+
+    {   "name" : "Balboa",                       "code" : "PAB",        "country" : "Panama",                        "conversion" : 1.110842       },
+
+    {   "name" : "Barbados Dollar",              "code" : "BBD",        "country" : "Barbados",                      "conversion" : 2.242891       },
+
+    {   "name" : "Belarusian Ruble",             "code" : "BYN",        "country" : "Belarus",                       "conversion" : 2.356926       },
+        
+    {   "name" : "Belize Dollar",                "code" : "BZD",        "country" : "Belize",                        "conversion" : 2.23909        },
+
+    {   "name" : "Bermudian Dollar",             "code" : "BMD",        "country" : "Bermuda",                       "conversion" : 1.111197       },
+
+    {   "name" : "Bolivar Fuerte",               "code" : "VEF",        "country" : "Venezuela",                     "conversion" : 11.098084      },
+
+    {   "name" : "Boliviano",                    "code" : "BOB",        "country" : "Bolivia",                       "conversion" : 7.681266       },
+
+    {   "name" : "Brazilian Real",               "code" : "BRL",        "country" : "Brazil",                        "conversion" : 4.51691        },
+
+    {   "name" : "Brunei Dollar",                "code" : "BND",        "country" : "Brunei",                        "conversion" : 1.50177        },  
+    
+    {   "name" : "Bulgarian Lev",                "code" : "BGN",        "country" : "Bulgaria",                      "conversion" : 1.955784       },
+        
+    {   "name" : "Burundi Franc",                "code" : "BIF",        "country" : "Burundi",                       "conversion" : 2088.733642    },
+
+    
+ 
+                                      {   "name" : "---------------C---------------"   },
+
+
+        
+    {   "name" : "Canadian Dollar",              "code" : "CAD",        "country" : "Canada",                        "conversion" : 1.449613       },
+
+    {   "name" : "Cape Verde Escudo",            "code" : "CVE",        "country" : "Cape Verde",                    "conversion" : 110.298987     },
+
+    {   "name" : "Cayman Islands Dollar",        "code" : "KYD",        "country" : "Cayman Islands",                "conversion" : 0.925685       },
+
+    {   "name" : "Cedi",                         "code" : "GHS",        "country" : "Ghana",                         "conversion" : 6.326149       },
+
+    {   "name" : "CFA Franc BCEAO",              "code" : "XAF",        "country" : "XA",                            "conversion" : 656.162142     },
+
+    {   "name" : "CFP Franc",                    "code" : "XPF",        "country" : "XP",                            "conversion" : 119.297297     },
+
+    {   "name" : "Chilean Peso",                 "code" : "CLP",        "country" : "Chile",                         "conversion" : 849.293435     },
+
+    {   "name" : "Colombian Peso",               "code" : "COP",        "country" : "Colombia",                      "conversion" : 3601.309654    },
+        
+    {   "name" : "Congolese Franc",              "code" : "CDF",        "country" : "Congo",                         "conversion" : 1872.36808     },
+        
+    {   "name" : "Cordoba Oro",                  "code" : "NIO",        "country" : "Nicaragua",                     "conversion" : 37.473547      },
+        
+    {   "name" : "Costa Rican Colon",            "code" : "CRC",        "country" : "Costa Rica",                    "conversion" : 636.166022     },
+
+    {   "name" : "Croatian Kuna",                "code" : "HRK",        "country" : "Croatia",                       "conversion" : 7.449815       },
+        
+    {   "name" : "Cuban Peso",                   "code" : "CUP",        "country" : "Cuba",                          "conversion" : 29.446731      },   
+        
+    {   "name" : "Czech Koruna",                 "code" : "CZK",        "country" : "Czech Republic",                "conversion" : 25.254963      },
+
+        
+
+                                      {   "name" : "---------------D---------------"   },
+
+
+
+    {   "name" : "Dalasi",                       "code" : "GMD",        "country" : "Gambia",                        "conversion" : 56.893081      },
+
+    {   "name" : "Danish Krone",                 "code" : "DKK",        "country" : "Denmark",                       "conversion" : 7.472758       },
+
+    {   "name" : "Denar",                        "code" : "MKD",        "country" : "Macedonia",                     "conversion" : 61.600996      },
+
+    {   "name" : "Djibouti Franc",               "code" : "DJF",        "country" : "Djibouti",                      "conversion" : 197.481906     },
+
+    {   "name" : "Dobra",                        "code" : "STN",        "country" : "Sao Tome and Principe",         "conversion" : 23958.293778   },      
+         
+    {   "name" : "Dominican Peso",               "code" : "DOP",        "country" : "Dominican Republic",            "conversion" : 58.84013       },
+
+    {   "name" : "Dong",                         "code" : "VND",        "country" : "Vietnam",                       "conversion" : 25742.047849   },
+
+
+
+                                      {   "name" : "---------------E---------------"   },
+
+
+        
+    {   "name" : "East Caribbean Dollar",        "code" : "XCD",        "country" : "XC",                            "conversion" : 3.003067       },
+
+    {   "name" : "Egyptian Pound",               "code" : "EGP",        "country" : "Egypt",                         "conversion" : 17.73993       },
+        
+    {   "name" : "Ethiopian Birr",               "code" : "ETB",        "country" : "Ethiopia",                      "conversion" : 35.612773      },
+        
+    {   "name" : "Euro",                         "code" : "EUR",        "country" : "EU",                            "conversion" : 1              },
+
+        
+ 
+                                      {   "name" : "---------------F---------------"   },
+
+
+     
+    {   "name" : "Falkland Islands Pound",       "code" : "FKP",        "country" : "Falkland Islands",              "conversion" : 0.903271       },
+
+    {   "name" : "Fiji Dollar",                  "code" : "FJD",        "country" : "Fiji",                          "conversion" : 2.404184       },
+
+    {   "name" : "Forint",                       "code" : "HUF",        "country" : "Hungary",                       "conversion" : 331.959451     },
+
+
+
+                                      {   "name" : "---------------G---------------"   },
+
+
+        
+    {   "name" : "Gibraltar Pound",              "code" : "GIP",        "country" : "Gibraltar",                     "conversion" : 0.90327        },
+
+    {   "name" : "Gourde",                       "code" : "HTG",        "country" : "Haiti",                         "conversion" : 109.292676     },
+
+    {   "name" : "Guarani",                      "code" : "PYG",        "country" : "Paraguay",                      "conversion" : 7235.629534    },
+        
+    {   "name" : "Guinea Franc",                 "code" : "GNF",        "country" : "Guinea",                        "conversion" : 10588.36225    },
+        
+    {   "name" : "Guyana Dollar",                "code" : "GYD",        "country" : "Guyana",                        "conversion" : 232.891753     },
+
+
+
+                                      {   "name" : "---------------H---------------"   },
+
+
+        
+    {   "name" : "Hong Kong Dollar",             "code" : "HKD",        "country" : "Hong Kong",                     "conversion" : 8.632837       },
+
+    {   "name" : "Hryvnia",                      "code" : "UAH",        "country" : "Ukraine",                       "conversion" : 26.796256      },
+
+
+
+                                      {   "name" : "---------------I---------------"   },
+
+
+
+    {   "name" : "Iceland Krona",                "code" : "ISK",        "country" : "Iceland",                       "conversion" : 137.710827     },
+
+    {   "name" : "Indian Rupee",                 "code" : "INR",        "country" : "India",                         "conversion" : 79.191724      },   
+        
+    {   "name" : "Iranian Rial",                 "code" : "IRR",        "country" : "Iran",                          "conversion" : 46786.967006   },
+
+    {   "name" : "Iraqi Dinar",                  "code" : "IQD",        "country" : "Iraq",                          "conversion" : 1326.108644    },
+
+        
+
+                                      {   "name" : "---------------J---------------"   },
+
+
+
+    {   "name" : "Jamaican Dollar",              "code" : "JMD",        "country" : "Jamaica",                       "conversion" : 147.794532     },
+        
+    {   "name" : "Jordanian Dinar",              "code" : "JOD",        "country" : "Jordan",                        "conversion" : 0.787866       },
+
+
+
+                                      {   "name" : "---------------K---------------"   },
+
+
+
+    {   "name" : "Kenyan Shilling",              "code" : "KES",        "country" : "Kenya",                         "conversion" : 112.894863     },
+
+    {   "name" : "Kip",                          "code" : "LAK",        "country" : "Laos",                          "conversion" : 9875.186823    },
+
+    {   "name" : "Kina",                         "code" : "PGK",        "country" : "Papua New Guinea",              "conversion" : 3.787884       },
+
+    {   "name" : "Konvertibilna Marka",          "code" : "BAM",        "country" : "Bosnia and Herzegovina",        "conversion" : 1.956433       },
+
+    {   "name" : "Kuwaiti Dinar",                "code" : "KWD",        "country" : "Kuwait",                        "conversion" : 0.337215       },
+
+    {   "name" : "Kwacha",                       "code" : "MWK",        "country" : "Malawi",                        "conversion" : 819.783541     },
+
+    {   "name" : "Kwanza",                       "code" : "AOA",        "country" : "Angola",                        "conversion" : 537.473408     },
+
+    {   "name" : "Kyat",                         "code" : "MMK",        "country" : "Myanmar (Burma)",               "conversion" : 1634.019554    },
+
+
+
+                                      {   "name" : "---------------L---------------"   },
+
+ 
+
+    {   "name" : "Lari",                         "code" : "GEL",        "country" : "Georgia",                       "conversion" : 3.183564       },
+
+    {   "name" : "Lebanese Pound",               "code" : "LBP",        "country" : "Lebanon",                       "conversion" : 1679.517532    },
+        
+    {   "name" : "Lek",                          "code" : "ALL",        "country" : "Albania",                       "conversion" : 122.317687     },
+        
+    {   "name" : "Lempira",                      "code" : "HNL",        "country" : "Honduras",                      "conversion" : 27.353429      },
+
+    {   "name" : "Leone",                        "code" : "SLL",        "country" : "Sierra Leone",                  "conversion" : 10778.615267   },
+
+    {   "name" : "Leu",                          "code" : "RON",        "country" : "Romania",                       "conversion" : 4.779591       },
+
+    {   "name" : "Liberian Dollar",              "code" : "LRD",        "country" : "Liberia",                       "conversion" : 209.573824     },
+
+    {   "name" : "Libyan Dinar",                 "code" : "LYD",        "country" : "Libya",                         "conversion" : 1.552078       },
+
+    {   "name" : "Lilangeni",                    "code" : "SZL",        "country" : "Swaziland",                     "conversion" : 15.779762      },
+
+    {   "name" : "Loti",                         "code" : "LSL",        "country" : "Lesotho",                       "conversion" : 15.845603      },
+
+
+
+                                      {   "name" : "---------------M---------------"   },
+
+
+
+    {   "name" : "Malagasy Ariary",              "code" : "MGA",        "country" : "Madagascar",                    "conversion" : 4126.691574    },
+
+    {   "name" : "Malaysian Ringgit",            "code" : "MYR",        "country" : "Malaysia",                      "conversion" : 4.545354       },
+
+    {   "name" : "Manat",                        "code" : "TMT",        "country" : "Turkmenistan",                  "conversion" : 3.900303       },
+
+    {   "name" : "Mauritius Rupee",              "code" : "MUR",        "country" : "Mauritius",                     "conversion" : 40.636197      },
+
+    {   "name" : "Metical",                      "code" : "MZN",        "country" : "Mozambique",                    "conversion" : 68.72721       },
+
+    {   "name" : "Mexican Peso",                 "code" : "MXN",        "country" : "Mexico",                        "conversion" : 20.871728      },
+
+    {   "name" : "Moldovan Leu",                 "code" : "MDL",        "country" : "Moldova",                       "conversion" : 19.217121      },
+
+    {   "name" : "Moroccan Dirham",              "code" : "MAD",        "country" : "Morocco",                       "conversion" : 10.669487      },
+
+    
+
+                                      {   "name" : "---------------N---------------"   },
+
+
+
+    {   "name" : "Naira",                        "code" : "NGN",        "country" : "Nigeria",                       "conversion" : 401.69502      },
+
+    {   "name" : "Nakfa",                        "code" : "ERN",        "country" : "Eritrea",                       "conversion" : 16.66797       },
+
+    {   "name" : "Namibia Dollar",               "code" : "NAD",        "country" : "Namibia",                       "conversion" : 15.845955      },
+
+    {   "name" : "Nepalese Rupee",               "code" : "NPR",        "country" : "Nepal",                         "conversion" : 126.370502     },
+        
+    {   "name" : "New Israeli Shekel",           "code" : "ILS",        "country" : "Israel",                        "conversion" : 3.854788       },
+
+    {   "name" : "New Zealand Dollar",           "code" : "NZD",        "country" : "New Zealand",                   "conversion" : 1.679104       },
+
+    {   "name" : "Ngultrum",                     "code" : "BTN",        "country" : "Bhutan",                        "conversion" : 78.980933      },
+
+    {   "name" : "North Korean Won",             "code" : "KPW",        "country" : "North Korea",                   "conversion" : 1000.11523     },
+
+    {   "name" : "Norwegian Krone",              "code" : "NOK",        "country" : "Norway",                        "conversion" : 9.869066       },
+
+    {   "name" : "Nuevo Sol",                    "code" : "PEN",        "country" : "Peru",                          "conversion" : 3.682335       },
+
+
+
+                                      {   "name" : "---------------O---------------"   },
+
+
+
+    {   "name" : "Ouguiya",                      "code" : "MRU",        "country" : "Mauritania",                    "conversion" : 396.697287     },
+
+
+
+                                      {   "name" : "---------------P---------------"   },
+
+
+    {   "name" : "Pa’anga",                      "code" : "TOP",        "country" : "Tonga",                         "conversion" : 2.550759       },
+
+    {   "name" : "Pataca",                       "code" : "MOP",        "country" : "Macao",                         "conversion" : 8.888779       },
+
+    {   "name" : "Pakistan Rupee",               "code" : "PKR",        "country" : "Pakistan",                      "conversion" : 172.044181     },
+
+    {   "name" : "Peso Uruguayo",                "code" : "UYU",        "country" : "Uruguay",                       "conversion" : 41.60582       },
+
+    {   "name" : "Philippine Peso",              "code" : "PHP",        "country" : "Philippines",                   "conversion" : 56.276612      },
+        
+    {   "name" : "Pound Sterling",               "code" : "GBP",        "country" : "Great Britain",                 "conversion" : 0.852299       },
+
+    {   "name" : "Pula",                         "code" : "BWP",        "country" : "Botswana",                      "conversion" : 11.848951      },
+
+    {   "name" : "PZloty",                       "code" : "PLN",        "country" : "Poland",                        "conversion" : 4.242106       },
+
+
+                                      
+                                      {   "name" : "---------------Q---------------"   },
+
+
+
+    {   "name" : "Qatari Rial",                  "code" : "QAR",        "country" : "Qatar",                         "conversion" : 4.045592       },
+
+    {   "name" : "Quetzal",                      "code" : "GTQ",        "country" : "Guatemala",                     "conversion" : 8.56994        },
+
+ 
+                                     
+                                      {   "name" : "---------------R---------------"   },
+
+
+
+    {   "name" : "Rand",                         "code" : "ZAR",        "country" : "ZA",                            "conversion" : 15.784116      },
+
+    {   "name" : "Rial Omani",                   "code" : "OMR",        "country" : "Oman",                          "conversion" : 0.427838       },
+
+    {   "name" : "Riel",                         "code" : "KHR",        "country" : "Cambodia",                      "conversion" : 4526.615176    },
+
+    {   "name" : "Rufiyaa",                      "code" : "MVR",        "country" : "Maldives",                      "conversion" : 17.168156      },
+
+    {   "name" : "Rupiah",                       "code" : "IDR",        "country" : "Indonesia",                     "conversion" : 15388.417186   },
+
+    {   "name" : "Russian Ruble",                "code" : "RUB",        "country" : "Russia",                        "conversion" : 68.056616      },
+
+    {   "name" : "Rwanda Franc",                 "code" : "RWF",        "country" : "Rwanda",                        "conversion" : 1053.844724    },
+
+   
+                                      
+                                      {   "name" : "---------------S---------------"   },
+
+
+
+    {   "name" : "Saint Helena Pound",           "code" : "SHP",        "country" : "Saint Helena",                  "conversion" : 1.46778        },
+
+    {   "name" : "Saudi Riyal",                  "code" : "SAR",        "country" : "Saudi Arabia",                  "conversion" : 4.168559       },
+
+    {   "name" : "Serbian Dinar",                "code" : "RSD",        "country" : "Serbia",                        "conversion" : 117.592487     },
+
+    {   "name" : "Seychelles Rupee",             "code" : "SCR",        "country" : "Seychelles",                    "conversion" : 15.223155      },
+
+    {   "name" : "Singapore Dollar",             "code" : "SGD",        "country" : "Singapore",                     "conversion" : 1.501563       },
+        
+    {   "name" : "Solomon Islands Dollar",       "code" : "SBD",        "country" : "Solomon Islands",               "conversion" : 9.225525       },
+
+    {   "name" : "Som",                          "code" : "KGS",        "country" : "Kyrgyzstan",                    "conversion" : 77.426906      },
+
+    {   "name" : "Somali Shilling",              "code" : "SOS",        "country" : "Somalia",                       "conversion" : 644.494597     },
+
+    {   "name" : "Somoni",                       "code" : "TJS",        "country" : "Tajikistan",                    "conversion" : 10.763817      },
+    
+    {   "name" : "South Korean Won",             "code" : "KRW",        "country" : "South Korea",                   "conversion" : 1288.344615    },
+        
+    {   "name" : "Sri Lanka Rupee",              "code" : "LKR",        "country" : "Sri Lanka",                     "conversion" : 201.447576     },
+
+    {   "name" : "Sudanese Pound",               "code" : "SDG",        "country" : "Sudan",                         "conversion" : 50.170257      },
+
+    {   "name" : "Suriname Dollar",              "code" : "SRD",        "country" : "Suriname",                      "conversion" : 8.287323       },
+        
+    {   "name" : "Swedish Kronae",               "code" : "SEK",        "country" : "Sweden",                        "conversion" : 10.527885      },
+   
+    {   "name" : "Swiss Franc",                  "code" : "CHF",        "country" : "Switzerland",                   "conversion" : 1.0815061      },
+
+    {   "name" : "Syrian Pound",                 "code" : "SYP",        "country" : "Syria",                         "conversion" : 572.26694      },
+
+  
+                                      
+                                      {   "name" : "---------------T---------------"   },
+
+
+
+    {   "name" : "Taiwan Dollar",                "code" : "TWD",        "country" : "Taiwan",                        "conversion" : 33.283139      },
+
+    {   "name" : "Taka",                         "code" : "BDT",        "country" : "Bangladesh",                    "conversion" : 94.302856      },
+
+    {   "name" : "Tala",                         "code" : "WST",        "country" : "Samoa",                         "conversion" : 2.922047       },
+    
+    {   "name" : "Tenge",                        "code" : "KZT",        "country" : "Kazakhstan",                    "conversion" : 418.298894     },
+
+    {   "name" : "Tanzanian Shilling",           "code" : "TZS",        "country" : "Tanzania",                      "conversion" : 2555.437436    },
+
+    {   "name" : "Trinidad and Tobago Dollar",   "code" : "TTD",        "country" : "Trinidad and Tobago",           "conversion" : 7.49711        },
+    
+    {   "name" : "Tugrik",                       "code" : "MNT",        "country" : "Mongolia",                      "conversion" : 3048.043183    },
+
+    {   "name" : "Tunisian Dinar",               "code" : "TND",        "country" : "Tunisia",                       "conversion" : 3.130795       },
+
+    {   "name" : "Turkish Lira",                 "code" : "TRY",        "country" : "Turkey",                        "conversion" : 6.526496       },
+
+
+                                      
+                                      {   "name" : "---------------U---------------"   },
+
+
+
+    {   "name" : "UAE Dirham",                   "code" : "AED",         "country" : "UAE",                           "conversion" : 4.081262       },
+        
+    {   "name" : "Uganda Shilling",              "code" : "UGX",         "country" : "Uganda",                        "conversion" : 4093.361309    },
+        
+    {   "name" : "US Dollar",                    "code" : "USD",         "country" : "US",                            "conversion" : 1.111197       },
+
+    {   "name" : "Uzbekistan Sum",               "code" : "UZS",         "country" : "Uzbekistan",                    "conversion" : 10624.963925   },
+
+
+
+
+                                      {   "name" : "---------------V---------------"   },
+
+
+
+    {   "name" : "Vatu",                         "code" : "VUV",        "country" : "Vanuatu",                       "conversion" : 128.61075      },
+
+
+
+                                      {   "name" : "---------------Y---------------"   },
+
+
+
+    {   "name" : "Yemeni Rial",                  "code" : "YER",        "country" : "Yemen",                         "conversion" : 278.128997     },
+
+    {   "name" : "Yen",                          "code" : "JPY",        "country" : "Japan",                         "conversion" : 121.559995     },
+
+    {   "name" : "Yuan",                         "code" : "CNY",        "country" : "China",                         "conversion" : 7.725489       },
+
+
+
+                                      {   "name" : "---------------Z---------------"   },
+
+
+     
+    {   "name" : "Zambian Kwacha",               "code" : "ZMW",         "country" : "Zambia",                        "conversion" : 15.495874      },
+        
+    {   "name" : "Zimbabwe Dollar",              "code" : "ZWL",         "country" : "Zimbabwe",                      "conversion" : 357.805564     }
+
+    ]
+}
